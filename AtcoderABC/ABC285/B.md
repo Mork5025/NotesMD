@@ -17,6 +17,7 @@ Note that *l*=0 always satisfies the conditions.
 - *S* is a string of length 
 *N* consisting of lowercase English letters.
 
+## Code
 ```cpp
 #include <stdio.h>
 
